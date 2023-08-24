@@ -1,1 +1,2 @@
 so this project is to make a google dinogame and make an AI with NEAT and it can play well... to infinity at best
+if you want to train your own then in the NEAT_AI.py at the bottem of the code comment out god_ai() and uncomment train_ai()
